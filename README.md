@@ -6,7 +6,7 @@
 <p>
 Overview
 Set off on a journey that combines fashion and easy internet purchasing with my invention, DealTech Solutions. For all fashion enthusiasts—men, women, and children—we have a carefully chosen selection here. DealTech is the only place you need to shop for stylish clothing and accessories to stay on style.
-
+</p>
 Installation
 Bringing DealTech to life on my local machine was an exciting process:
 
