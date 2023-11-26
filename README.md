@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>DealTech Solutions: A Fashion E-Commerce Venture</h1>
+<h1>DEALTECH SOLUTIONS: A Fashion E-Commerce Venture</h1>
 <h2>LINK:https://dealtech-solutions.web.app/</h2>
 <h2>Overview</h2>
 Set off on a journey that combines fashion and easy internet purchasing with my invention, DealTech Solutions. For all fashion enthusiasts—men, women, and children—we have a carefully chosen selection here. DealTech is the only place you need to shop for stylish clothing and accessories to stay on style.
