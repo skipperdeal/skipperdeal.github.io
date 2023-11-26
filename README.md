@@ -3,14 +3,13 @@
 <body>
 
 <h1>DealTech Solutions: A Fashion E-Commerce Venture</h1>
-<h2>
-Overview
+<h2>Overview</h2>
 Set off on a journey that combines fashion and easy internet purchasing with my invention, DealTech Solutions. For all fashion enthusiasts—men, women, and children—we have a carefully chosen selection here. DealTech is the only place you need to shop for stylish clothing and accessories to stay on style.
-</h2>
-Installation
+
+<h2>Installation</h2>
 Bringing DealTech to life on my local machine was an exciting process:
 
-Cloning the Repository: Fired up GitHub Desktop and cloned the project repository.
+<h2>Cloning the Repository:</h2> Fired up GitHub Desktop and cloned the project repository.
 Visual Studio Unveiling: Launched Visual Studio to dive into the project codebase.
 Personal Touch: Customized the code to align with the unique vibe of DealTech.
 Firebase Magic: Seamlessly deployed the fashion haven using Firebase Hosting.
