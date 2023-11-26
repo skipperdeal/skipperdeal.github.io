@@ -16,23 +16,23 @@ Firebase Magic: Seamlessly deployed the fashion haven using Firebase Hosting.
 Usage
 Explore DealTech's features and dive into the fashion-forward experience:
 
-Visually Pleasing Gallery: Navigated through a stunning product gallery showcasing the latest trends.
+<h2>Visually Pleasing Gallery:</h2> Navigated through a stunning product gallery showcasing the latest trends.
 Cart Control: Smoothly added items, reviewed selections, and enjoyed a hassle-free checkout.
 User Reviews: Shared personal experiences by leaving reviews and ratings for purchased items.
 Social Connection: Integrated social media links for an interactive experience.
-Contributing
+<h2>Contributing</h2>
 Contributions to DealTech are not just welcome; they are encouraged.
 
-Feedback at Your Fingertips: Directly shared thoughts and suggestions on the website.
+<h2>Feedback at Your Fingertips:</h2> Directly shared thoughts and suggestions on the website.
 Social Media: Engaged with the fashion community through social media, sharing and experiencing trends.
-Deployment
+<h2>Deployment</h2>
 The deployment process was a crucial part of DealTech's evolution.
 
 Firebase Firestore Harmony: Organised product data, user profiles, and order histories with Firebase Firestore
 Firebase Hosting Spectacle: Launched the fashion extravaganza using Firebase Hosting.
 Firebase Authentication Security: Ensured a secure and user-friendly experience with Firebase Authentication.
 Credits
-Big shoutouts to the tech partners that made DealTech a reality:
+<h2>Big shoutouts to the tech partners that made DealTech a reality:</h2>
 
 Visual Studio: The playground for code exploration and customization.
 GitHub: A reliable companion for version control and collaboration.
