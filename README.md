@@ -1,4 +1,9 @@
-DealTech Solutions: A Fashion E-Commerce Venture
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>DealTech Solutions: A Fashion E-Commerce Venture</h1>
+<p>
 Overview
 Set off on a journey that combines fashion and easy internet purchasing with my invention, DealTech Solutions. For all fashion enthusiasts—men, women, and children—we have a carefully chosen selection here. DealTech is the only place you need to shop for stylish clothing and accessories to stay on style.
 
@@ -35,4 +40,9 @@ GitHub: A reliable companion for version control and collaboration.
 Firebase: The backbone providing a robust backend and hosting solution.
 npm: Managing project dependencies seamlessly.
 License
-DealTech Solutions operates under the wings of the MIT License, allowing the freedom to explore, modify, and utilize the platform with ease.
+DealTech Solutions operates under the wings of the MIT License, allowing the freedom to explore, modify, and utilize the platform with ease.</p>
+
+</body>
+</html>
+
+
